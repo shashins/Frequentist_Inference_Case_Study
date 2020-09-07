@@ -2,7 +2,7 @@
 
 There are two parts to the case study. In part A, we apply Pythonic implementation of the concepts underlying frequentist inference. In Part B, we apply those implementations to a real-world scenario. 
 
-You’ll be implementing the following concepts as you work through the case study:
+We implementing the following concepts as we work through the case study:
 
 The z-statistic
 
